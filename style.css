@@ -1,0 +1,16 @@
+p {
+    font-family: 'helvetica neue', helvetica, sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid blue;
+    background: white;
+    color: black;
+    box-shadow: 2px 2px 4px blue;
+    border-radius: 20px;
+    padding: 20px 10px;
+    cursor: auto;
+    width: 100px;
+    margin: 20% auto;
+    font-weight: 500;
+  }
